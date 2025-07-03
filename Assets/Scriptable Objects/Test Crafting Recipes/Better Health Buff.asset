@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92b63c9493ad9324a84bbcfe895eb2ca, type: 3}
+  m_Name: Better Health Buff
+  m_EditorClassIdentifier: 
+  Materials:
+  - Item: {fileID: 11400000, guid: 2ac201c669f164345a5bc93040481f82, type: 2}
+    Amount: 1
+  - Item: {fileID: 11400000, guid: 6ae83383eb62ec949bfaa9dea602ea80, type: 2}
+    Amount: 1
+  Products:
+  - Item: {fileID: 11400000, guid: 62a5004285c02f84c92241c64e311d31, type: 2}
+    Amount: 1

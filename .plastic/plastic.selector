@@ -1,0 +1,4 @@
+repository "Horde-Shooter-Prototype@beqostore@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+﻿{
+  "version": "1.0",
+  "components": [
+    "Microsoft.VisualStudio.Workload.ManagedGame"
+  ]
+}
+=======
+﻿{
+  "version": "1.0",
+  "components": [
+    "Microsoft.VisualStudio.Workload.ManagedGame"
+  ]
+}
+>>>>>>> 66c7f2a (Initial Unity project commit)
